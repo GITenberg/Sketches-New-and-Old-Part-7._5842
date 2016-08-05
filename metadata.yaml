@@ -1,0 +1,33 @@
+_repo: Sketches-New-and-Old-Part-7._5842
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: First interview with Artemus Ward -- Cannibalism in the cars -- The
+  killing of Julius Caesar "localized" -- The widow's protest -- The scriptural panoramist
+  -- Curing a cold -- A curious pleasure excursion -- Running for governor -- A mysterious
+  visit.
+title: Sketches New and Old, Part 7.
+url: http://www.gutenberg.org/ebooks/5842
